@@ -23,5 +23,5 @@ try:
         case _:
             print ("Opcion no valida")        
 except TypeError: 
-    print ("No es valida la opcion")
+    print ("No es valida la opcion prueba")
         
