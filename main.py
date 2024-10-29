@@ -1,6 +1,6 @@
 from models.modulos import *
 try:
-    print ("Calculadora ")
+    print ("Sisteama Calculadora ")
     print ("1. Suma")
     print ("2. Resta")
     print ("3. Multiplicacion")
