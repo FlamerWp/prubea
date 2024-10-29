@@ -18,6 +18,8 @@ try:
             multiplicacion (n1,n2)
         case "4":
             division (n1,n2)
+        case "5":
+            division (n1,n2)
         case _:
             print ("Opcion no valida")        
 except TypeError: 
